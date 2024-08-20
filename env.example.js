@@ -1,8 +1,8 @@
 window.settings = {
   // 站点标题
-  title: 'V2Board',
+  title: 'GfW',
   // API
-  host: '',
+  host: 'https://gfw.cgfw.uk',
   // 主题
   theme: {
     sidebar: 'light',
